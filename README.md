@@ -14,7 +14,7 @@ Me chamo Ângelo, sou bacharel em Economia e possuo grande interesse pela área 
 
 - Habilidades: Data Wrangling, Data Visualization, Subqueries, Window Functions, Joins
 
-## 🚀 Atualmente Estou...🚀
+### 🚀 Atualmente Estou...🚀
 
 - Aprendendo sobre algumas bibliotecas do Python (Pandas, Matplotlib, Seaborn)
 
