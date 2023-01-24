@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! 👋
+
+Me chamo Ângelo, sou graduado em Economia e possuo grande interesse pela área de Dados.
+
+
 
 <!--
 **angelodbarros/angelodbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
