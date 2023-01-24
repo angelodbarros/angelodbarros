@@ -23,7 +23,7 @@ Me chamo Ângelo, sou bacharel em Economia e possuo grande interesse pela área 
 - Desenvolvendo um projeto de dashboard de dados financeiros no Power BI
 
 
-### Meus Contatos
+### ✨ Meus Contatos ✨
 - [LinkedIn](https://www.linkedin.com/in/angelodonizetti/)
 
 - Email: angelodgbarros@gmail.com
