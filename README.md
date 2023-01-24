@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Ângelo, sou graduado em Economia e possuo grande interesse pela área de Dados.
+Me chamo Ângelo, sou bacharel em Economia e possuo grande interesse pela área de Dados.
 
 ### 💻 Projetos 💻
 
