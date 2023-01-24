@@ -1,8 +1,15 @@
-### Olá! 👋
+## Olá! 👋
 
 Me chamo Ângelo, sou graduado em Economia e possuo grande interesse pela área de Dados.
 
+### Projetos
 
+### Principais Habilidades
+
+### Atualmente...
+
+### Meus Contatos
+- [LinkedIn] (https://www.linkedin.com/in/angelodonizetti/)
 
 <!--
 **angelodbarros/angelodbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
