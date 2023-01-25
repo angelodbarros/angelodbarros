@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá! 👋🏼
 
 Me chamo Ângelo, sou bacharel em Economia e possuo grande interesse pela área de Dados.
 
