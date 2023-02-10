@@ -2,7 +2,7 @@
 
 Me chamo Ângelo, sou bacharel em Economia e possuo grande interesse pela área de Dados.
 
-### 💻 Projetos 💻
+### 💻 Projetos
 
 - Análise Exploratória de Microdados Educacionais (Python) **[Clique Aqui](https://github.com/angelodbarros/matriculas_redefederal)**
 
@@ -10,13 +10,13 @@ Me chamo Ângelo, sou bacharel em Economia e possuo grande interesse pela área 
 
 - Respondendo perguntas a partir de dados de Comércio Exterior (SQL) **[Clique Aqui](https://github.com/angelodbarros/analise_comex)**
 
-### ✍🏼 Principais Habilidades ✍🏼
+### ✍🏼 Principais Habilidades
 
 - Ferramentas: SQL, Python, R, Power BI, Excel
 
 - Habilidades: Data Wrangling, Data Visualization, Subqueries, Window Functions, Joins
 
-### 🚀 Atualmente Estou...🚀
+### 🚀 Atualmente Estou...
 
 - Aprendendo sobre algumas bibliotecas do Python (Pandas, Matplotlib, Seaborn)
 
@@ -25,7 +25,7 @@ Me chamo Ângelo, sou bacharel em Economia e possuo grande interesse pela área 
 - Desenvolvendo um projeto de dashboard de dados financeiros no Power BI
 
 
-### 📧 Meus Contatos 📧
+### 📧 Meus Contatos
 - [LinkedIn](https://www.linkedin.com/in/angelodonizetti/)
 
 - Email: angelodgbarros@gmail.com
