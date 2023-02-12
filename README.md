@@ -10,7 +10,7 @@ No meu **[portfólio](https://github.com/angelodbarros/guia_portfolio/blob/main/
 
 - Ferramentas: SQL, Python, R, Power BI, Excel
 
-- Habilidades: Importação, transformação e manipulação (análise exploratória(, visualização, exportação de dados
+- Habilidades: Importação, transformação e manipulação (análise exploratória), visualização, exportação de dados
 
 ### 🚀 Atualmente Estou...
 
